@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lê Công Hùng</h1>
+<h1 align="center">Hi 👋, I'm Le Cong Hung</h1>
 <h3 align="center">A student & passionate coder</h3>
 
 - 🔭 I’m currently studying at **HCMC University of Technology and Education**  
@@ -50,4 +50,4 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
-> “Luôn học hỏi, luôn cải thiện, luôn code chất lượng.”
+> "Always learning, always improving, always coding with quality."
