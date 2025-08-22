@@ -41,8 +41,4 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://hugn2k4.github.io/MyPortfolio/images/about-me/anh7.jpg" alt="Avatar" height="200" style="border-radius:50%;"/>
-</p>
-
 > “Luôn học hỏi, luôn cải thiện, luôn code chất lượng.”
